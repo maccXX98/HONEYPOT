@@ -1,2 +1,2 @@
 # HONEYPOT
-Este programa Honeypot fue realizado por Mauro Castillo
+Este programa de deteccion de intrusos Honeypot fue realizado por Mauro Castillo
